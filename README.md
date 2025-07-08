@@ -9,4 +9,5 @@
 <!-- Optional links -->
 Check out my STAT 155 repository where I investigate how union membership rates differ across education levels, industries, gender, and employment sectors from 1973 to 2024.
 [STAT 155 Repository](https://github.com/nalucasucsc/stat155)
+
 [LinkedIn](www.linkedin.com/in/neeka-lucas-1672342b8) 
