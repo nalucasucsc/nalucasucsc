@@ -1,6 +1,6 @@
 # Hello 👋
 
-🎓 I’m a recent graduate of UC Santa Cruz with a B.A. in Psychology and a minor in Statistics. I'm passionate about the intersection of psychology and data, with interests in data analysis, project management, and human resources—especially how data-driven insights can support more inclusive and effective organizational practices.
+🎓 I’m a graduate of UC Santa Cruz with a B.A. in Psychology and a minor in Statistics. I'm passionate about the intersection of psychology and data, with interests in data analysis, project management, and human resources—especially how data-driven insights can support more inclusive and effective organizational practices.
 
 📊 My work focuses on exploring how union membership rates have changed over time across education levels, industries, gender, and employment sectors. Using linear regression models, I analyze trends and their implications for compensation strategies in HR.
 
